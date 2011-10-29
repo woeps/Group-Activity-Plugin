@@ -1,0 +1,82 @@
+.group_activity_eventListFrame
+	{
+	height: 100%;
+	overflow: scroll;
+	}
+
+.group_activity_eventList
+	{
+	width: 100%;
+	}
+	
+.group_activity_eventListRow
+	{
+	
+	}
+
+.group_activity_eventListItem
+	{
+	/*display: inline !important;
+	padding: 5px;
+	padding-left: 4px;
+	padding-right: 4px;*/
+	padding: 2px;
+	text-align: center;
+	}
+
+.group_activity_newEvent
+	{
+	padding: 6px;
+	background: #666;
+	border: 2px groove #000;
+	color: #fff;
+	}
+
+.group_activity_newEvent a
+	{
+	color: #fff;
+	}
+
+.even
+	{
+	background-color: #ccc;
+	}
+
+.odd
+	{
+	background-color: #aaa;
+	}
+
+.errorList
+	{
+	border: 1px groove #d33;
+	margin: 10px;
+	padding: 4px;
+	color: #a00;
+	}
+
+.errorListItem
+	{
+	font-weight: bold;
+	list-style-type: disc;
+	display: list-item;
+	margin-left: 50px;
+	}
+
+.messageListItem
+	{
+	list-style-type: disc;
+	display: list-item;
+	margin-left: 50px;
+	color: #400;
+	}
+
+.eventTable td
+	{
+	padding: 2px;
+	}
+
+.eventInfo
+	{
+	white-space: pre;
+	}
