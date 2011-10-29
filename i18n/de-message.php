@@ -21,6 +21,9 @@
 	'Settings' => 'Einstellungen',
 	'Documentation' => 'Dokumentation',
 	
+	//Documentation
+	'I\'m sorry for this poor documentation! <br/>By now this plugin should be pretty self-explanatory! <br/>There is no front-end controller available at the moment.'	=> 'Entschuldige die schlechte Dokumentation! <br/>Zur Zeit sollte das Plugin recht selbsterklärend sein! <br/>Zur Zeit ist kein Front-End Controller verfügbar.',
+	
 	//Messages
 	'You have modified this page. If you navigate away from this page without first saving your data, the changes will be lost.' => 'Du hast Einstellungen geändert. Wenn du die Seite verlässt, ohne diese zu speichern, gehen die Änderungen verloren.',
 	'An error occured during the set up of the GroupActivityAdmin-Role and the permissions.'	=> 'Während der Erstellung der GroupActivity-Rolle und den Berechtigungen ist ein Fehler aufgetreten.',

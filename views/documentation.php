@@ -12,5 +12,5 @@ if (!defined('IN_CMS')) { exit(); }
 ?>
 <h1><?php echo __('Documentation'); ?></h1>
 <p>
-<?php echo __('I\'m sorry for this poor documentation! <br/>By now this plugin should be pretty self-explanatory! - you can do/use everything you see here in the backend!'); ?>
+<?php echo __('I\'m sorry for this poor documentation! <br/>By now this plugin should be pretty self-explanatory! <br/>There is no front-end controller available at the moment.'); ?>
 </p>
